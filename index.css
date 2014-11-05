@@ -1,0 +1,69 @@
+body{
+	background: #DFD5C8;
+	color: #555;
+	font-family: "Microsoft Yahei",verdana,sans-serif;
+	font-size: 13px;
+	word-wrap: break-word;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: #555;
+}
+a:hover{
+	color: #2dafbc;
+}
+img{
+	margin-top: 20px;
+	width: 180px;
+}
+ul{
+	list-style: none;
+}
+li{
+	margin-top: 10px;
+}
+h1{
+	text-align: center;
+}
+::selection{
+	color: #fff;
+	background-color: #2dafbc;
+}
+#wrap{
+	width: 960px;
+	margin: 20px auto;
+}
+#post{
+	float: left;
+	width: 63%;
+	padding: 1em 2em;
+	background: #F9F7F3;
+	border-radius: 5px;
+	box-shadow: 0 0 1px #A7A9AC;
+	margin-bottom: 35px;
+}
+#left{
+	float: right;
+	width: 400px;
+}
+.title{
+	color: black;
+	border-bottom: 1px solid RGB(224,224,224);
+	margin: 20px 10px 20px;
+}
+ul{
+	margin-left: 12px;
+}
+#widget{
+	float: right;
+}
+#weibo{
+	border: 1px;
+	border-radius: 5px;
+}
+#github{
+}
